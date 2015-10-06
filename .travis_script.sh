@@ -1,4 +1,5 @@
 #!/bin/bash
+# script for travis
 
 export PYTHONPATH=$(pwd)/tools/pylib/:$PYTHONPATH
 cd ./examples
